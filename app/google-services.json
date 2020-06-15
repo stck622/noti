@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092489959333",
+    "firebase_url": "https://noti-e04b5.firebaseio.com",
+    "project_id": "noti-e04b5",
+    "storage_bucket": "noti-e04b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092489959333:android:b95d5558b80d5dc475ba4c",
+        "android_client_info": {
+          "package_name": "kr.fire.noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092489959333-0irjmro22bj27es6nhg046af6f4pfe46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagWvSjWyijDPSq5cam_o0sapv2fJLF14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092489959333-0irjmro22bj27es6nhg046af6f4pfe46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

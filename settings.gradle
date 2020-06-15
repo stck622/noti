@@ -1,0 +1,2 @@
+rootProject.name='noti'
+include ':app'
