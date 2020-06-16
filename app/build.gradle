@@ -41,6 +41,6 @@ dependencies {
     implementation 'com.google.firebase:firebase-database:19.3.0'
     implementation files('libs\\libDaumMapAndroid.jar')
 
-
+    implementation 'com.google.firebase:firebase-messaging:20.2.0'
 
 }
